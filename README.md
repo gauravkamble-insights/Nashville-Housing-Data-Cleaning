@@ -38,7 +38,7 @@ The central challenge of this project is to implement robust SQL queries to stan
 
 
 ## Outcome
-Successful execution of these SQL scripts results in a cleaned and standardized database that is significantly more usable for business intelligence and reporting. By breaking down addresses and standardizing fields, the data becomes more granular and friendly for analysis, ensuring that subsequent data-driven decisions are based on accurate and high-quality information.
+Successful execution of these [SQL scripts](https://github.com/gauravkamble-insights/Nashville-Housing-Data-Cleaning/tree/main/query) results in a cleaned and standardized database that is significantly more usable for business intelligence and reporting. By breaking down addresses and standardizing fields, the data becomes more granular and friendly for analysis, ensuring that subsequent data-driven decisions are based on accurate and high-quality information.
 
 
 ## Tools Used for this Project
